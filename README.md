@@ -1,3 +1,0 @@
-# PrinterProject
-
-First repo
